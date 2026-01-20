@@ -1,0 +1,7 @@
+{
+  "name": "FinSense",
+  "description": "A gamified, behaviour-driven financial literacy simulator for Bharat users. Learn by doing, not by quizzes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
